@@ -1,0 +1,100 @@
+Acura,Japan,vin,MDX,2014,Mid,SUV,plate,Gas,Auto,4,7,Black,Yes,28,Yes,No,42290,rentalPrice,1
+Acura,Japan,vin,RLX,2014,Full,Sedan,plate,Gas,Optional,4,5,Silver,Yes,31,Yes,No,48450,rentalPrice,1
+Acura,Japan,vin,TL,2014,Mid,Sedan,plate,Gas,Optional,3,5,Silver,Yes,31,Yes,No,36030,rentalPrice,1
+Acura,Japan,vin,RSX A Spec,2005,Sport,Coupe,plate,Gas,Optional,2,4,Silver,Yes,31,Yes,No,23845,rentalPrice,1
+Ashton Martin,UK,vin,DB9,2013,Mid,Coupe,plate,Gas,Optional,2,2,Black,Yes,19,No,Optional,183700,rentalPrice,1
+Ashton Martin,UK,vin,Vanquish,2013,Mid,Coupe,plate,Gas,Optional,2,2,Red,Yes,19,No,No,279995,rentalPrice,1
+Ashton Martin,UK,vin,Rapide S,2013,Mid,Sedan,plate,Gas,Optional,4,4,Red,Yes,19,No,No,198250,rentalPrice,1
+Audi,Germany,vin,Q7 TDI,2013,Full,SUV,plate,Diesel,Auto,4,7,White,Yes,22,No,No,47700,rentalPrice,1
+Audi,Germany,vin,R8 Spider,2013,Sport,Coupe,plate,Gas,Optional,2,2,Red,Yes,20,No,Yes,128400,rentalPrice,1
+Audi,Germany,vin,A8 L W12,2013,Full,Sedan,plate,Gas,Optional,4,5,Silver,Yes,21,Yes,No,135900,rentalPrice,1
+Bentley,UK,vin,Mulsanne,2013,Full,Sedan,plate,Gas,Auto,4,5,Black,Yes,18,No,No,298990,rentalPrice,1
+Bentley,UK,vin,Continental GT,2013,Full,Coupe,plate,Gas,Auto,2,4,Blue,Yes,24,No,Optional,177500,rentalPrice,1
+Bentley,UK,vin,New Flying Spur,2013,Full,Sedan,plate,Gas,Auto,4,5,Black,Yes,20,No,No,184200,rentalPrice,1
+Bmw,Germany,vin,Active Hybrid 3,2013,Mid,Sedan,plate,Hybrid,Auto,4,5,Blue,Yes,33,Yes,No,49900,rentalPrice,1
+Bmw,Germany,vin,X5 xDrive50i,2013,Mid,SUV,plate,Gas,Auto,4,7,Brown,Yes,20,Yes,No,68200,rentalPrice,1
+Bmw,Germany,vin,7 Series,2014,Full,Sedan,plate,Gas,Optional,4,5,Silver,Yes,29,Yes,No,141200,rentalPrice,1
+Bugatti,Germany,vin,Veyron,2013,Full,Coupe,plate,Gas,Auto,2,2,Black,Yes,17,No,No,2400000,rentalPrice,1
+Buick,USA,vin,Lacrosse,2013,Mid,Sedan,plate,Gas,Optional,4,5,White,Yes,36,Optional,No,31660,rentalPrice,1
+Cadillac,USA,vin,Escalade ESV,2014,Full,SUV,plate,Gas,Auto,4,8,Black,Yes,18,No,No,70570,rentalPrice,1
+Cadillac,USA,vin,XTS,2014,Full,Sedan,plate,Gas,Auto,4,5,Black,Yes,28,No,No,44075,rentalPrice,1
+Cadillac,USA,vin,CTS Sport Wagon,2013,Full,Wagon,plate,Gas,Auto,4,5,Grey,Yes,26,No,No,39205,rentalPrice,1
+Chevrolet,USA,vin,Corvette Z51 3LT,2014,Full,Coupe,plate,Gas,Optional,2,2,Blue,Yes,29,No,Optional,61805,rentalPrice,1
+Chevrolet,USA,vin,Camero 2SS,2014,Full,Coupe,plate,Gas,Optional,2,2,Yellow,Yes,24,No,Optional,36855,rentalPrice,1
+Chevrolet,USA,vin,Silverado,2014,Full,Truck,plate,Gas,Optional,4,5,Red,Yes,24,No,No,25575,rentalPrice,1
+Chrystler,USA,vin,Town And Country,2014,Full,Van,plate,Gas,Auto,4,5,White,Yes,25,No,No,30765,rentalPrice,1
+Chrystler,USA,vin,300,2014,Full,Sedan,plate,Gas,Auto,4,5,Black,Yes,25,No,No,30545,rentalPrice,1
+Chrystler,USA,vin,200 Convertible,2014,Full,Coupe,plate,Gas,Auto,2,5,Red,Yes,29,No,Yes,27700,rentalPrice,1
+Daihatsu,Japan,vin,Sirion,2012,Compact,Hatchback,plate,Gas,Auto,4,4,Blue,Yes,31,No,No,14250,rentalPrice,1
+Daihatsu,Japan,vin,Cuore,2012,Compact,Hatchback,plate,Gas,Optional,4,4,Red,Yes,31,No,No,15500,rentalPrice,1
+Dodge,USA,vin,Viper GTS,2014,Full,Coupe,plate,Gas,Optional,2,2,Red,Yes,19,No,Optional,121895,rentalPrice,1
+Dodge,USA,vin,Charger,2014,Full,Sedan,plate,Gas,Optional,4,5,Red,Yes,31,No,No,26295,rentalPrice,1
+Dodge,USA,vin,Ram 1500,2012,Full,Truck,plate,Gas,Optional,4,6,Red,Yes,25,No,No,23600,rentalPrice,1
+Ferrari,Italy,vin,458 Spider,2014,Sport,Coupe,plate,Gas,Manual,2,2,Red,Yes,19,No,Yes,257412,rentalPrice,1
+Ferrari,Italy,vin,F12 Berlinetta,2014,Sport,Coupe,plate,Gas,Manual,2,2,Red,Yes,10,No,No,315888,rentalPrice,1
+Ferrari,Italy,vin,Enzo,2002,Sport,Coupe,plate,Gas,Manual,2,2,Red,Yes,22,No,No,644000,rentalPrice,1
+Fiat,Italy,vin,500 Abarth,2014,Compact,Hatchback,plate,Gas,Manual,2,2,Black,Yes,34,No,No,22000,rentalPrice,1
+Ford,USA,vin,Mustang,2014,Full,Coupe,plate,Gas,Optional,2,4,Red,Yes,24,No,Optional,22200,rentalPrice,1
+Ford,USA,vin,GT40,2008,Mid,Coupe,plate,Gas,Manual,2,2,Red,Yes,21,No,No,219980,rentalPrice,1
+Ford,USA,vin,Fusion SE Hatch,2014,Compact,Hatchback,plate,Electric,Optional,4,4,Red,Yes,110,No,No,17910,rentalPrice,1
+Ford,USA,vin,F150 Limited,2014,Full,Truck,plate,Diesel,Optional,4,6,Black,Yes,16,No,No,51045,rentalPrice,1
+General Motors,USA,vin,Yukon Denali,2014,Full,SUV,plate,Gas,Auto,4,8,White,Yes,18,No,No,58320,rentalPrice,1
+General Motors,USA,vin,Sierra 1500,2014,Full,Truck,plate,Hybrid,Optional,4,6,Black,Yes,23,No,No,41555,rentalPrice,1
+General Motors,USA,vin,Savana Passenger,2014,Full,Van,plate,Gas,Auto,3,15,White,Yes,17,No,No,29510,rentalPrice,1
+Honda,Japan,vin,Accord Hybrid,2014,Full,Sedan,plate,Hybrid,Auto,4,5,Black,Yes,50,No,No,29155,rentalPrice,1
+Honda,Japan,vin,NSX,2005,Sport,Coupe,plate,Gas,Optional,2,2,Black,Yes,22,No,No,89000,rentalPrice,1
+Honda,Japan,vin,S2000,2009,Sport,Coupe,plate,Gas,Optional,2,2,Silver,Yes,25,No,Optional,34795,rentalPrice,1
+Honda,Japan,vin,Civic Si Coupe,2014,Compact,Coupe,plate,Gas,Optional,2,4,Black,Yes,31,Optional,No,22515,rentalPrice,1
+Hyundai,Korea,vin,Santa Fe,2013,Mid,SUV,plate,Gas,Optional,4,5,Silver,Yes,25,No,No,28600,rentalPrice,1
+Hyundai,Korea,vin,Genesis,2013,Full,Sedan,plate,Gas,Optional,4,5,White,Yes,28,No,No,34200,rentalPrice,1
+Hyundai,Korea,vin,Accent,2013,Compact,Hatchback,plate,Gas,Optional,4,4,Blue,Yes,37,No,No,14545,rentalPrice,1
+Infiniti,Japan,vin,Q50 Hybrid,2013,Full,Sedan,plate,Hybrid,Auto,4,5,White,Yes,36,No,No,43950,rentalPrice,1
+Infiniti,Japan,vin,QX80,2013,Full,SUV,plate,Gas,Auto,4,5,Silver,Yes,20,No,No,61350,rentalPrice,1
+Infiniti,Japan,vin,G37 Convertible,2013,Mid,Coupe,plate,Gas,Auto,2,5,Blue,Yes,25,No,Yes,47900,rentalPrice,1
+Jaguar,UK,vin,F-Type V8 S,2014,Sport,Coupe,plate,Gas,Auto,2,2,Red,Yes,23,No,Yes,92000,rentalPrice,1
+Jaguar,UK,vin,XKR,2014,Mid,Coupe,plate,Gas,Auto,2,4,White,Yes,16,No,Optional,97500,rentalPrice,1
+Jeep,USA,vin,Wrangler,2014,Compact,SUV,plate,Gas,Optional,2,5,Silver,Yes,21,No,Optional,22395,rentalPrice,1
+Jeep,USA,vin,Grand Cherokee,2014,Mid,SUV,plate,Gas,Optional,4,6,Red,Yes,25,No,No,28795,rentalPrice,1
+Kia,Korea,vin,Picanto,2014,Compact,Hatchback,plate,Gas,Optional,4,4,Green,Yes,67,No,No,10950,rentalPrice,1
+Kia,Korea,vin,Sorento,2014,Mid,SUV,plate,Gas,Optional,4,5,White,Yes,26,No,No,24100,rentalPrice,1
+Lamborghini,Italy,vin,Avenador LP 700-4,2012,Sport,Coupe,plate,Gas,Manual,2,2,Orange,Yes,10,No,Yes,379700,rentalPrice,1
+Lamborghini,Italy,vin,Gallardo LP 560-4 Spider,2013,Sport,Coupe,plate,Gas,Manual,2,2,White,Yes,12,No,Yes,226065,rentalPrice,1
+Land Rover,UK,vin,Range Rover Sport,2014,Mid,SUV,plate,Gas,Optional,4,5,Silver,Yes,23,No,No,63495,rentalPrice,1
+Lexus,Japan,vin,LS 460 F Sport,2014,Full,Sedan,plate,Hybrid,Auto,4,5,White,Yes,24,No,No,80490,rentalPrice,1
+Lexus,Japan,vin,LX 570,2014,Full,SUV,plate,Gas,Auto,4,5,Grey,Yes,17,No,No,81780,rentalPrice,1
+Lincoln,USA,vin,Navigator,2014,Full,SUV,plate,Gas,Auto,4,8,Black,Yes,20,Yes,No,57875,rentalPrice,1
+Lincoln,USA,vin,MKS,2014,Full,Sedan,plate,Gas,Auto,4,5,Black,Yes,27,Yes,No,40690,rentalPrice,1
+Lotus,UK,vin,Elise S,2014,Sport,Coupe,plate,Gas,Manual,2,2,Green,Yes,27,No,No,48100,rentalPrice,1
+Mazda,Japan,vin,RX8,2011,Sport,Coupe,plate,Gas,Manual,2,2,Silver,Yes,22,Yes,No,32960,rentalPrice,1
+Mazda,Japan,vin,RX7,2001,Sport,Coupe,plate,Gas,Manual,2,2,Yellow,Yes,25,No,Optional,36435,rentalPrice,1
+Mazda,Japan,vin,MX-5 Miata,2014,Sport,Coupe,plate,Gas,Optional,2,2,White,Yes,28,No,Yes,28665,rentalPrice,1
+Mazda,Japan,vin,CX-5,2014,Compact,SUV,plate,Gas,Optional,4,5,Blue,Yes,35,No,No,21395,rentalPrice,1
+Mazerati,Italy,vin,Quattroporte GTS,2014,Full,Sedan,plate,Gas,Manual,4,5,Silver,Yes,22,No,No,140500,rentalPrice,1
+Mazerati,Italy,vin,Granturismo Sport,2013,Mid,Coupe,plate,Gas,Manual,2,4,Silver,Yes,21,No,Optional,135300,rentalPrice,1
+Mercedes-Benz,Germany,vin,GL63 AMG,2014,Mid,SUV,plate,Gas,Auto,4,7,Silver,Yes,17,No,No,118160,rentalPrice,1
+Mercedes-Benz,Germany,vin,S550,2014,Full,Sedan,plate,Gas,Auto,4,5,Silver,Yes,25,Yes,No,92900,rentalPrice,1
+Mercedes-Benz,Germany,vin,SLS GT Roadster,2014,Mid,Coupe,plate,Gas,Auto,2,2,Silver,Yes,19,No,Yes,208000,rentalPrice,1
+Mini,UK,vin,Cooper,2014,Compact,Coupe,plate,Gas,Optional,2,2,Red,Yes,37,No,Optional,21450,rentalPrice,1
+Mitsubishi,Japan,vin,Galant,2014,Mid,Sedan,plate,Gas,Optional,4,5,Silver,Yes,30,Yes,No,21899,rentalPrice,1
+Mitsubishi,Japan,vin,Lancer Evolution,2014,Mid,Sedan,plate,Gas,Optional,4,5,Blue,Yes,23,Optional,No,34995,rentalPrice,1
+Nissan,Japan,vin,Titan,2014,Full,Truck,plate,Gas,Optional,4,6,White,Yes,18,No,No,29270,rentalPrice,1
+Nissan,Japan,vin,Leaf,2014,Compact,Hatchback,plate,Electric,Auto,4,4,Blue,Yes,129,No,No,21300,rentalPrice,1
+Nissan,Japan,vin,Skyline GTR,2003,Mid,Coupe,plate,Gas,Manual,2,4,Blue,Yes,23,No,No,69850,rentalPrice,1
+Pagani,Italy,vin,Zonda C12 F,2005,Sport,Coupe,plate,Gas,Manual,2,2,Black,Yes,10,No,No,741000,rentalPrice,1
+Peugeot,France,vin,208 GTI,2014,Compact,Hatchback,plate,Gas,Optional,2,2,Red,Yes,48,No,No,25600,rentalPrice,1
+Porche,Germany,vin,911 Carrera S,2014,Sport,Coupe,plate,Gas,Manual,2,2,Blue,Yes,27,No,No,98900,rentalPrice,1
+Porche,Germany,vin,Boxster S,2014,Sport,Coupe,plate,Gas,Manual,2,2,Silver,Yes,28,No,Yes,62100,rentalPrice,1
+Scion,Japan,vin,IQ,2013,Compact,Hatchback,plate,Gas,Auto,2,2,Orange,Yes,37,No,No,16250,rentalPrice,1
+Scion,Japan,vin,FR-2,2013,Mid,Coupe,plate,Gas,Optional,2,4,Black,Yes,34,No,No,25255,rentalPrice,1
+Subaru,Japan,vin,Imprezza WRX,2014,Mid,Hatchback,plate,Gas,Optional,4,4,Black,Yes,25,No,No,25995,rentalPrice,1
+Subaru,Japan,vin,XV Crosstrek,2014,Mid,Hatchback,plate,Gas,Optional,4,5,Orange,Yes,33,Yes,No,21995,rentalPrice,1
+Subaru,Japan,vin,Outback,2013,Mid,Wagon,plate,Gas,Optional,4,4,Silver,Yes,30,No,No,23495,rentalPrice,1
+Suzuki,Japan,vin,Kizashi,2010,Mid,Sedan,plate,Gas,Optional,4,5,Silver,Yes,31,No,No,18999,rentalPrice,1
+Suzuki,Japan,vin,Grand Vitara,2008,Mid,SUV,plate,Gas,Auto,4,5,White,Yes,26,Yes,No,19949,rentalPrice,1
+Toyota,Japan,vin,Tacoma,2014,Mid,Truck,plate,Gas,Optional,4,5,Silver,Yes,25,No,No,17875,rentalPrice,1
+Toyota,Japan,vin,Supra,2002,Sport,Coupe,plate,Gas,Optional,2,2,Black,Yes,24,No,No,30900,rentalPrice,1
+Toyota,Japan,vin,Prius Plug-in Hybrid,2013,Compact,Hatchback,plate,Hybrid,Auto,4,4,White,Yes,95,No,No,39735,rentalPrice,1
+Toyota,Japan,vin,MR2 Spyder,2005,Sport,Coupe,plate,Gas,Optional,2,2,White,Yes,29,No,Yes,25145,rentalPrice,1
+Volkswagen,Germany,vin,Beetle,2014,Compact,Coupe,plate,Gas,Optional,2,4,Red,Yes,41,Optional,Optional,19995,rentalPrice,1
+Volkswagen,Germany,vin,Beetle TDI,2014,Compact,Coupe,plate,Diesel,Optional,2,4,Yellow,Yes,41,Optional,Optional,26995,rentalPrice,1
+Volkswagen,Germany,vin,Beetle GSR,2014,Compact,Coupe,plate,Gas,Optional,2,4,Yellow,Yes,30,Optional,Optional,29995,rentalPrice,1

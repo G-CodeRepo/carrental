@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>Abut_ics321Group(Seans_ver)</title>
+        <vendor>db2instg</vendor>
+        <homepage href=""/>
+        <description>Abut_ics321Group(Seans_ver)</description>
+        <description kind="short">Abut_ics321Group(Seans_ver)</description>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="1.7+"/>
+        <jar href="Abut_ics321Group_Seans_ver_.jar" main="true"/>
+    <jar href="lib/db2jcc.jar"/>
+</resources>
+    <application-desc main-class="carrent.ui.MainPanel">
+    </application-desc>
+</jnlp>
