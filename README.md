@@ -1,2 +1,2 @@
 # carrental
-This program retrieves a database of vehicles based on their various specs.The database was done locally therefore this program will not have access to it outside the computer that the database resides. However, the video demo can be seen at http://www.screencast-o-matic.com/watch/cojVeNfxbo
+This program retrieves a database of vehicles based on their various specs. This was done in my database class with my partners Anthony and Sean before we knew about version control. The database was done locally, therefore, this program will run but will not have access to the database outside the computer that it resides. However, the video demo can be seen at http://www.screencast-o-matic.com/watch/cojVeNfxbo
